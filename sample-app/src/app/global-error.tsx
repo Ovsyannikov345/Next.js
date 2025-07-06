@@ -1,3 +1,5 @@
+"use client"
+
 export default function GlobalError() {
   // Works only in prod
   return (
